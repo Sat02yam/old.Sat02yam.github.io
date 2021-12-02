@@ -157,7 +157,7 @@ html {
     overflow-x: hidden
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     html {
         font-size: 3.125vw
     }
@@ -181,7 +181,7 @@ body {
     overflow-x: hidden
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     body {
         font-size: 1.2rem
     }
@@ -274,7 +274,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title {
         width: 87.5%;
         margin: 0 6.25%;
@@ -285,7 +285,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title--top {
         margin: 0 13%
     }
@@ -307,7 +307,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title__text {
         font-size: 3.8rem;
         margin-bottom: 0.8rem;
@@ -315,7 +315,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title__text--top {
         font-size: 5.4rem;
         text-shadow: 0 10px 30px rgba(2, 11, 22, 0.5);
@@ -328,7 +328,7 @@ img {
     margin-bottom: 3.2rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title .border {
         margin-bottom: 0.8rem
     }
@@ -346,7 +346,7 @@ img {
     margin-bottom: 1.4rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title .border span:first-child {
         margin-bottom: 0.7rem
     }
@@ -358,7 +358,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title .border span {
         width: 44px;
         height: 2px
@@ -375,7 +375,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title .border span:last-child {
         margin-left: 27px
     }
@@ -395,7 +395,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title__lead {
         font-size: 1.2rem
     }
@@ -405,7 +405,7 @@ img {
     margin-bottom: 1.6rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title li {
         margin-bottom: 0.8rem;
         line-height: 1.1
@@ -420,7 +420,7 @@ img {
     margin-right: 3.2rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title li:last-child a {
         margin-right: 1.6rem
     }
@@ -447,7 +447,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .title li a {
         font-size: 1.2rem
     }
@@ -479,7 +479,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .btn {
         font-size: 1.2rem
     }
@@ -501,7 +501,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .btn-wrap {
         text-align: center;
         margin-top: 0.8rem
@@ -534,14 +534,14 @@ img {
     bottom: -80px
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .scrollDown:after {
         height: 32px;
         bottom: -40px
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .scrollDown {
         left: auto;
         right: 6.25%;
@@ -566,7 +566,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .content--mlarge {
         margin-top: 4rem
     }
@@ -591,7 +591,7 @@ img {
     padding-top: 0
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .heading--left {
         margin-left: auto
     }
@@ -604,7 +604,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .heading {
         font-size: 2.4rem;
         padding-top: 0.2rem
@@ -633,13 +633,13 @@ img {
     margin: auto
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .heading-num:after {
         width: 2.4rem
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .heading-num {
         padding-left: 3.2rem;
         font-size: 2.4rem
@@ -657,7 +657,7 @@ img {
     word-break: break-all
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .sub-title {
         font-size: 1.6rem;
         margin-bottom: 0.8rem
@@ -672,13 +672,13 @@ img {
     font-family: "futura_de"
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .small-title {
         font-size: 2.1rem
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .small-title--skill {
         font-size: 1.2rem
     }
@@ -690,7 +690,7 @@ img {
     z-index: 200
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .wrapper {
         margin-bottom: 12rem
     }
@@ -710,7 +710,7 @@ img {
     z-index: 300
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .back-arrow {
         width: 32px;
         top: 60px;
@@ -739,7 +739,7 @@ img {
     background: #020b16
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .page-top {
         display: block
     }
@@ -756,7 +756,7 @@ img {
     align-items: center
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .page-top__inner {
         display: block;
         max-height: 761px;
@@ -773,7 +773,7 @@ img {
     box-shadow: none
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .page-top .image {
         width: 100%;
         height: 65.492%;
@@ -812,7 +812,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .text {
         margin-top: 7.2rem
     }
@@ -882,7 +882,7 @@ img {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .text__works {
         margin-top: 4rem
     }
@@ -892,7 +892,7 @@ img {
     margin-top: 20rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .container {
         margin-top: 12rem
     }
@@ -939,7 +939,7 @@ header {
     z-index: 1000
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     header {
         padding: 20px 6.25%
     }
@@ -972,7 +972,7 @@ header .name {
     z-index: 1000
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     header .name {
         font-size: 1.6rem
     }
@@ -992,7 +992,7 @@ header .icons {
     margin-right: 6.4rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     header .icons {
         display: none
     }
@@ -1016,7 +1016,7 @@ header .menuIcon {
     cursor: pointer
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     header .menuIcon {
         width: 25px;
         height: 15px
@@ -1108,7 +1108,7 @@ header .global-nav__list li:first-child {
     margin-top: 0
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     header .global-nav__list li {
         padding: 0;
         margin-top: 3.2rem
@@ -1137,7 +1137,7 @@ header .global-nav__list a {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     header .global-nav__list a {
         font-size: 3.8rem;
         text-shadow: 0 3px 20px rgba(2, 11, 22, 0.2)
@@ -1177,7 +1177,7 @@ header .global-nav__sns {
     display: none
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     header .global-nav__sns {
         display: block
     }
@@ -1226,7 +1226,7 @@ header .global-nav__sns a:last-child {
     color: #fff
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .fullpage__slide {
         display: block;
         height: 100%;
@@ -1237,7 +1237,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .fp-section-1 .fullpage__slide {
         height: 100%;
         position: absolute;
@@ -1269,7 +1269,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     #fp-nav {
         bottom: 20px
     }
@@ -1298,7 +1298,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     #fp-nav ul li {
         margin: 0 12px
     }
@@ -1324,7 +1324,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     #fp-nav ul li a {
         width: 2px;
         height: 16px
@@ -1346,7 +1346,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     #fp-nav ul li .active {
         width: 2px;
         height: 32px
@@ -1380,7 +1380,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .moon {
         width: 165vw;
         height: 165vw;
@@ -1414,7 +1414,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .moon__text {
         font-size: 2.4rem;
         text-shadow: 0 4px 6px rgba(2, 11, 22, 0.2)
@@ -1485,7 +1485,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .image {
         width: 80%;
         height: 55.633%;
@@ -1549,7 +1549,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .image .page-num {
         display: none
     }
@@ -1560,7 +1560,7 @@ header .global-nav__sns a:last-child {
     text-shadow: 0 10px 30px rgba(2, 11, 22, 0.5)
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .image .page-num p {
         text-shadow: 0 3px 10px rgba(2, 11, 22, 0.5)
     }
@@ -1585,7 +1585,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .moonlight {
         width: 165vw;
         height: 165vw;
@@ -1616,7 +1616,7 @@ header .global-nav__sns a:last-child {
     z-index: -100
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .moon-background {
         height: 100%;
         bottom: 0;
@@ -1641,7 +1641,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .star {
         left: 0
     }
@@ -1658,13 +1658,13 @@ header .global-nav__sns a:last-child {
     align-items: center
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .star__img {
         display: block
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .star__img img {
         -webkit-transform: translate3d(0%, 39%, 0) scale(1.5);
         transform: translate3d(0%, 39%, 0) scale(1.5)
@@ -1701,7 +1701,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .meta__back {
         height: 45rem
     }
@@ -1711,7 +1711,7 @@ header .global-nav__sns a:last-child {
     padding: 0 8.58333% 0
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .meta__text-wrap {
         padding: 0 7.5% 0
     }
@@ -1724,7 +1724,7 @@ header .global-nav__sns a:last-child {
     margin-bottom: 7.2rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .meta__text {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
@@ -1737,7 +1737,7 @@ header .global-nav__sns a:last-child {
     margin-right: 6.4rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .meta__text li {
         margin-right: 0;
         margin-bottom: 1.6rem
@@ -1748,7 +1748,7 @@ header .global-nav__sns a:last-child {
     margin-right: 0
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .meta__text li:last-child {
         margin-bottom: 0
     }
@@ -1758,7 +1758,7 @@ header .global-nav__sns a:last-child {
     margin-bottom: 0.8rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .meta__text .small-title {
         margin-bottom: 0.4rem
     }
@@ -1772,7 +1772,7 @@ header .global-nav__sns a:last-child {
     margin-top: 14.4rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .big-image {
         margin-top: 7.2rem;
         height: 50rem
@@ -1785,7 +1785,7 @@ header .global-nav__sns a:last-child {
     margin-top: 14.4rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .kamp {
         padding-top: 7.2rem;
         margin-top: 7.2rem
@@ -1824,7 +1824,7 @@ header .global-nav__sns a:last-child {
     transform: translate3d(44px, 0, 0)
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .back-btn {
         font-size: 1.6rem;
         -webkit-transform: translate3d(22px, 0, 0);
@@ -1847,7 +1847,7 @@ header .global-nav__sns a:last-child {
     transition: 0.5s
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .back-btn:after {
         width: 32px;
         left: -44px
@@ -1906,7 +1906,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .who__wrap {
         margin-top: 4rem
     }
@@ -1917,7 +1917,7 @@ header .global-nav__sns a:last-child {
     margin-bottom: 2.4rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .who__name {
         margin-bottom: 1.6rem
     }
@@ -1930,7 +1930,7 @@ header .global-nav__sns a:last-child {
     margin-bottom: 0.4rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .who__jp {
         font-size: 1.3rem
     }
@@ -1943,7 +1943,7 @@ header .global-nav__sns a:last-child {
     line-height: 1.3
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .who__en {
         font-size: 1rem
     }
@@ -1953,7 +1953,7 @@ header .global-nav__sns a:last-child {
     margin-bottom: 6.4rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .who__text {
         margin-bottom: 3.2rem
     }
@@ -1966,7 +1966,7 @@ header .global-nav__sns a:last-child {
     box-shadow: 0px 63px 154px -20px rgba(7, 33, 66, 0.5)
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .who__image {
         -webkit-box-shadow: 0px 33px 84px -20px rgba(7, 33, 66, 0.5);
         box-shadow: 0px 33px 84px -20px rgba(7, 33, 66, 0.5)
@@ -2010,7 +2010,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .passion__item {
         margin-top: 3.2rem
     }
@@ -2027,7 +2027,7 @@ header .global-nav__sns a:last-child {
     }
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .passion__image {
         margin-bottom: 1.6rem
     }
@@ -2086,7 +2086,7 @@ header .global-nav__sns a:last-child {
     margin-top: 0
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .skill-set__item {
         margin-top: 3.2rem
     }
@@ -2129,7 +2129,7 @@ header .global-nav__sns a:last-child {
     letter-spacing: 0.2em
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .skill-set__year {
         font-size: 1rem
     }
@@ -2141,7 +2141,7 @@ header .global-nav__sns a:last-child {
     color: #072142
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .skill-set__ratio {
         font-size: 1rem
     }
@@ -2161,7 +2161,7 @@ header .global-nav__sns a:last-child {
     box-shadow: 0 5px 15px 0 rgba(7, 33, 66, 0.15)
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .skill-set__bar {
         height: 0.7rem
     }
@@ -2260,7 +2260,7 @@ header .global-nav__sns a:last-child {
     z-index: 100
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .footer {
         padding: 7.2rem 0
     }
@@ -2277,7 +2277,7 @@ header .global-nav__sns a:last-child {
     transition: .3s
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .footer a {
         font-size: 1.2rem
     }
@@ -2287,7 +2287,7 @@ header .global-nav__sns a:last-child {
     margin-bottom: 2.4rem
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:451px) {
     .footer a:first-child {
         margin-bottom: 0.8rem
     }
