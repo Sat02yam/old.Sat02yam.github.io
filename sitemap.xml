@@ -9,18 +9,23 @@
 
 <url>
   <loc>https://satzzz.me/</loc>
-  <lastmod>2021-11-11T14:59:39+00:00</lastmod>
+  <lastmod>2022-02-13T05:42:33+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://satzzz.me/reile.html</loc>
-  <lastmod>2021-11-11T14:59:39+00:00</lastmod>
+  <loc>https://satzzz.me/about.html</loc>
+  <lastmod>2022-02-13T05:42:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://satzzz.me/about.html</loc>
-  <lastmod>2021-11-11T14:59:39+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://satzzz.me/reile.html</loc>
+  <lastmod>2022-02-13T05:42:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://satzzz.me/resume/</loc>
+  <lastmod>2022-03-25T18:40:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
