@@ -1521,6 +1521,12 @@ header .global-nav__sns a:last-child {
     background-size: cover
 }
 
+.bgmi{
+    background: url(../img/spotify\ dark.png) no-repeat center;
+    background-size: cover
+}
+
+
 .image--about {
     background: url(../img/about.jpg) no-repeat center;
     background-size: cover
